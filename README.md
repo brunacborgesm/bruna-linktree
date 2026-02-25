@@ -1,4 +1,9 @@
-# Linktree - Architectrual Skeleton
+# Linktree - Bruna Borges
+
+Check it here: [brunaborges.com/links](https://brunaborges.com/links)
+
+### Preview
+![Preview](./public/links-fullpage.png)
 
 This repository contains the **architectural skeleton** of the Linktree (links page) for Bruna Borges.
 
